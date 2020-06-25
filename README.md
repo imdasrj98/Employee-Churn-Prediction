@@ -11,4 +11,4 @@ The dataset is first split into training and testing data. 80% of the data is us
 # Testing
 Upon Testing on the rest 20% data it is found that the model is giving almost 98% accuracy.
 # Scope
-For future the plan is built an front end for this so that it can used for industry purpose.
+For future the plan is to built a front end for this so that it can used for industry purpose.
