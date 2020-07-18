@@ -9,4 +9,4 @@ All the necessary datas are visualized using matplotlib and seaborn library func
 # Training and Testing
 The dataset is first split into training and testing data. 80% of the data is used for testing purpose and the rest 20% is kept for testing. For training the keras library is used to train the deep learning predicting model. The network consists of 7 fully connected layer. All having relu activation function except the output layer which has sigmoid as activation function. The model is trained for 1000 epochs with 'Adam' optimizer and 'binary_crossentropy' as loss function. Upon Testing on the rest 20% data it is found that the model is giving almost 98% accuracy. These are done in model_train_test.ipynb file.
 # Scope
-For future the plan is to built a front end for this so that it can used for industry purpose.
+For future the plan is to built a front end for this so that it can used for industry purpose using django or flask.
